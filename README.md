@@ -10,5 +10,6 @@
 
 Добавлено:
 
-![image](https://github.com/ciigann/project/assets/146112930/2bf9867a-0946-47db-b9f8-9b75551a1d8b)
+![image](https://github.com/ciigann/project/assets/146112930/343c465c-18a1-4bb2-9e3b-5351e15b51bb)
+
 
