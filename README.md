@@ -9,7 +9,7 @@
 ![image](https://github.com/ciigann/project/assets/146112930/df9968e3-e000-40ee-acf0-2798f834adfe)
 
 
-Добавлено:
+Добавлен вывод частного введенных чисел с точностью до сотых:
 
 ![image](https://github.com/ciigann/project/assets/146112930/343c465c-18a1-4bb2-9e3b-5351e15b51bb)
 
