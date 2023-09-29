@@ -7,6 +7,8 @@
 Скриншоты тестов:
 
 ![image](https://github.com/ciigann/project/assets/146112930/50335166-ab9f-4218-b0ad-fbae84f4f89c)
+![image](https://github.com/ciigann/project/assets/146112930/df9968e3-e000-40ee-acf0-2798f834adfe)
+
 
 Добавлено:
 
