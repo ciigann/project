@@ -11,7 +11,8 @@
 
 Добавлен вывод частного введенных чисел с точностью до сотых:
 
-![image](https://github.com/ciigann/project/assets/146112930/fe714679-d106-4052-8d4d-2f483254a014)
+![image](https://github.com/ciigann/project/assets/146112930/3cebabf0-a7cf-4b13-b52d-296e41ae852f)
+
 
 
 
